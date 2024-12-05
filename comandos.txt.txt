@@ -2,4 +2,8 @@ ta
 não sei
 alteração
 
+<<<<<<< HEAD
 faz de conta que tem uma receita e modificou duas vezes
+=======
+faz de conta que tem uma receita e modificou
+>>>>>>> add-receita-bolo
